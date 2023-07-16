@@ -1,24 +1,17 @@
-# Welcome to Kudoku!
+# Welcome to Durrrian!
 
 <p align="center">
   <img alt="Kudoku Logo" src="https://drive.google.com/uc?id=1pJH21GQufDoJu88E4TfrPu5GyjAh3X-l" style="border: none; border-style: none; width: 200px"/>
 </p>
 
-<p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/kudokuapp?style=social">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kudokuapp?style=social">
-  <img alt="Kudoku's Visitor" src="https://visitor-badge.glitch.me/badge?page_id=kudokuapp..github">
-</p>
-
 ---
 
-We are a Startup based in Jakarta, Indonesia! 🇮🇩
+We are a software house based in Jakarta, Indonesia! 🇮🇩
 
-If you haven't become a `Kudos` yet, please become one at [our website](https://kudoku.id)!
 
 ## Work with us
 
-Wanna work with us? Just email any of our Co-Founders [Furqon](mailto:furqon@kudoku.id), [Rizqy](mailto:rizqy@kudoku.id), or [Aldi](mailto:aldi@kudoku.id), and we'll figure something out!
+Wanna work with us? Just say Hi to any of the team members [Furqon](mailto:furqon@durrrian.com), [Rizqy](mailto:rizqy@durrrian.com), or [Aldi](mailto:aldi@durrrian.com)!
 
 ## Our current tech stack
 <p align="center">
@@ -68,6 +61,4 @@ Wanna work with us? Just email any of our Co-Founders [Furqon](mailto:furqon@kud
   <img alt="" src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white">
   <img alt="" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img alt="" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white">
-  <img alt="" src="">
-  <img alt="" src="">
 </p>
